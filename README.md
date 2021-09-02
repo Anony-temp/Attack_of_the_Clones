@@ -27,4 +27,3 @@
    - You can obtain maintainability value of all coins. For example, we input like `parsing(None, True, output filename)`.
 
 4. To cluster the maintainability values, call the `kmeans` in `main_maintenance.py` file.
-   - 
